@@ -1,0 +1,28 @@
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+
+header {
+  font-size: 30px;
+}
+
+section{
+  background-color: lightgray;
+}
+
+img.middle { 
+float: left; }
+
+adress 
+{
+  float: left;
+}
+section.Employers{
+  float: right;
+}
+
+h2{
+  vertical-align: middle;
+}
